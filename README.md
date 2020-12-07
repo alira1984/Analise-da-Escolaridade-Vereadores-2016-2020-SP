@@ -4,7 +4,7 @@ Trabalho de Lógica de Programação (1° Sem. FATEC) usando Jupyter Notebook. E
 ***
 
 ### Alunos
-* Rafael Pinto Cajé | Anderson Lira
+* Rafael Pinto Cajé | Anderson 
 
 **Professor:** Leandro Masanori 
 
